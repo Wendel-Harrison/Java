@@ -1,3 +1,4 @@
+package garrafa;
 import java.util.Scanner;
 
 public class MainGarrafa {

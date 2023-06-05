@@ -1,3 +1,5 @@
+package garrafa;
+
 public class Garrafa {
     private double capacidadeMaxima;
     private double volumeAtual;
