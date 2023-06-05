@@ -1,3 +1,4 @@
+package celular;
 import java.util.Scanner;
 
 public class MainCelular {
