@@ -26,7 +26,7 @@ public class Carro {
             int incremento = scanner.nextInt();
             scanner.nextLine();
             velocidade += incremento;
-            System.out.println("O carro acelerou para " + velocidade + " km/h.");
+            System.out.println("O carro acelerou para " + velocidade + " km/h. Muito bem!");
         } else {
             System.out.println("O carro precisa estar ligado para acelerar.");
         }
